@@ -4,7 +4,7 @@ module.exports = {
     public: '/',
     src: '/_dist_',
   },
-/*   buildOptions: {
-    baseUrl: 'https://raw.githubusercontent.com/JoseCaicedoDev/tiendaAvocado/gh-pages',
-  }, */
+  buildOptions: {
+    baseUrl: 'tiendaAvocado/',
+  },
 }
