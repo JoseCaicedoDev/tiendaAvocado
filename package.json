@@ -1,5 +1,5 @@
 {
-  "homepage": "git@github.com:JoseCaicedoDev/tiendaAvocado.git",
+  "homepage": "https://JoseCaicedoDev.github.io/tiendaAvocado",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
