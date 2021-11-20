@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://josecaicedodev.github.io/tiendaAvocado/',
+    baseUrl: 'tiendaAvocado/',
   },
 }
